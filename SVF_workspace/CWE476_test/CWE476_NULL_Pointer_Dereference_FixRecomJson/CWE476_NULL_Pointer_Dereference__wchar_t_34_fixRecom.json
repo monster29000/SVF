@@ -1,0 +1,12 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_34.c",
+        "ln": 35,
+        "recom": "data = new/malloc int*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_34.c",
+        "ln": 41,
+        "recom": "if( data1 != NULL)\n "
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln": 79,
+        "recom": "data1 = new/malloc twoIntsStruct*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln": 87,
+        "recom": "if( data2 != NULL)\n "
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln_b": 80,
+        "ln_e": 81,
+        "recom_b": "if( dataPtr1 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln_b": 83,
+        "ln_e": 84,
+        "recom_b": "if( dataPtr2 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln": 32,
+        "recom": "data1 = new/malloc twoIntsStruct*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln": 38,
+        "recom": "if( data2 != NULL)\n "
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln_b": 33,
+        "ln_e": 34,
+        "recom_b": "if( dataPtr1 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_32.c",
+        "ln_b": 36,
+        "ln_e": 37,
+        "recom_b": "if( dataPtr2 != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64a.c",
+        "ln": 57,
+        "recom": "data = new/malloc int*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "ln_b": 62,
+        "ln_e": 63,
+        "recom_b": "if( data != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "ln_b": 57,
+        "ln_e": 63,
+        "recom_b": "if( dataPtr != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64a.c",
+        "ln": 31,
+        "recom": "data = new/malloc int*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "ln_b": 32,
+        "ln_e": 33,
+        "recom_b": "if( data != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__wchar_t_64b.c",
+        "ln_b": 29,
+        "ln_e": 33,
+        "recom_b": "if( dataPtr != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

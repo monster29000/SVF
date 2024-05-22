@@ -1,0 +1,26 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 22,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_34.c",
+            "ln": 40
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_34.c",
+            "ln": 35
+        },
+        "Value": {
+            "cl": 23,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_34.c",
+            "ln": 40
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "int*",
+        "sink_variable": "data1",
+        "source_retTypeName": "void",
+        "source_typeName": "int*",
+        "source_variable": "data"
+    }
+]

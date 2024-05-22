@@ -1,0 +1,52 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 118,
+        "recom": "if (tmpData== NULL){ exit(EXIT_FAILURE);}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 118,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 127,
+        "recom": "if( data != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 119,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 141,
+        "recom": "if (tmpData== NULL){ exit(EXIT_FAILURE);}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 141,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 150,
+        "recom": "if( data != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 142,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 37,
+        "recom": "data = new/malloc .TwoIntsClass*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_04.cpp",
+        "ln": 42,
+        "recom": "if( data != NULL)\n "
+    }
+]

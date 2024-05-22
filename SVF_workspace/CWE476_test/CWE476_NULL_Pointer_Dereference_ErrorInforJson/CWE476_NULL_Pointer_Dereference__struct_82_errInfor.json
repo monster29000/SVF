@@ -1,0 +1,26 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_82_bad.cpp",
+            "ln": 28
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_82a.cpp",
+            "ln": 30
+        },
+        "Value": {
+            "cl": 18,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_82_bad.cpp",
+            "ln": 28
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "twoIntsStruct*",
+        "sink_variable": "data.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "twoIntsStruct*",
+        "source_variable": "data"
+    }
+]

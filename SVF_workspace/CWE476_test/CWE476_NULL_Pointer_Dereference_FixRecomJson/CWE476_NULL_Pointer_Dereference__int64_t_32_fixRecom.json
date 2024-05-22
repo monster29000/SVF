@@ -1,0 +1,60 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln": 77,
+        "recom": "data1 = new/malloc int64_t*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 85,
+        "ln_e": 86,
+        "recom_b": "if( data2 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 78,
+        "ln_e": 79,
+        "recom_b": "if( dataPtr1 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 81,
+        "ln_e": 82,
+        "recom_b": "if( dataPtr2 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln": 32,
+        "recom": "data1 = new/malloc int64_t*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 38,
+        "ln_e": 39,
+        "recom_b": "if( data2 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 33,
+        "ln_e": 34,
+        "recom_b": "if( dataPtr1 != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_32.c",
+        "ln_b": 36,
+        "ln_e": 37,
+        "recom_b": "if( dataPtr2 != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

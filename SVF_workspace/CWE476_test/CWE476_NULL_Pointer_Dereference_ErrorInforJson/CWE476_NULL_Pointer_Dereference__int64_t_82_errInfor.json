@@ -1,0 +1,26 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 23,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_82_bad.cpp",
+            "ln": 28
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_82a.cpp",
+            "ln": 30
+        },
+        "Value": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int64_t_82_bad.cpp",
+            "ln": 28
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "int64_t*",
+        "sink_variable": "data.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "int64_t*",
+        "source_variable": "data"
+    }
+]

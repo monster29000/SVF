@@ -1,0 +1,38 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln": 63,
+        "recom": "if (tmpData== NULL){ exit(EXIT_FAILURE);}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln": 63,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln_b": 52,
+        "ln_e": 53,
+        "recom_b": "if( data.addr != NULL){\n",
+        "recom_e": "}\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln": 64,
+        "recom": "if( tmpData != NULL)\n "
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln": 39,
+        "recom": "data = new/malloc .TwoIntsClass*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_44.cpp",
+        "ln_b": 28,
+        "ln_e": 29,
+        "recom_b": "if( data.addr != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

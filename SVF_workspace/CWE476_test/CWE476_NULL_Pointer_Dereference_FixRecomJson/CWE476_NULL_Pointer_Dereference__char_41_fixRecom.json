@@ -1,0 +1,15 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_41.c",
+        "ln": 35,
+        "recom": "data = new/malloc char*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_41.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_41.c",
+        "ln_b": 28,
+        "ln_e": 29,
+        "recom_b": "if( data.addr != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

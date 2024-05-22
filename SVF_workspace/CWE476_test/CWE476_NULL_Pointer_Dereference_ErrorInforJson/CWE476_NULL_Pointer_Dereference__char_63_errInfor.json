@@ -1,0 +1,98 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 26,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 53
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63a.c",
+            "ln": 57
+        },
+        "Value": {
+            "cl": 26,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 53
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "char*",
+        "sink_variable": "data",
+        "source_retTypeName": "void",
+        "source_typeName": "char*",
+        "source_variable": "data"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 19,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 48
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63a.c",
+            "ln": 57
+        },
+        "Value": {
+            "cl": 20,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 48
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "char**",
+        "sink_variable": "dataPtr.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "char*",
+        "source_variable": "data"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 22,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 29
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63a.c",
+            "ln": 31
+        },
+        "Value": {
+            "cl": 22,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 29
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "char*",
+        "sink_variable": "data",
+        "source_retTypeName": "void",
+        "source_typeName": "char*",
+        "source_variable": "data"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 19,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 26
+        },
+        "Source": {
+            "cl": 10,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63a.c",
+            "ln": 31
+        },
+        "Value": {
+            "cl": 20,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__char_63b.c",
+            "ln": 26
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "char**",
+        "sink_variable": "dataPtr.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "char*",
+        "source_variable": "data"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_10.c",
+        "ln": 25,
+        "recom": "twoIntsStructPointer = new/malloc twoIntsStruct*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_10.c",
+        "ln": 28,
+        "recom": "if( twoIntsStructPointer != NULL)\n "
+    }
+]

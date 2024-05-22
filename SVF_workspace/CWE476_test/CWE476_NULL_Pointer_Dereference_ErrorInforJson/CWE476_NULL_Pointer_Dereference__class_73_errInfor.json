@@ -1,0 +1,410 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 28,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 59
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 56
+        },
+        "Value": {
+            "cl": 22,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 59
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": ".TwoIntsClass*",
+        "sink_variable": "data",
+        "source_retTypeName": "void",
+        "source_typeName": ".TwoIntsClass*",
+        "source_variable": "tmpData"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 47
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 56
+        },
+        "Value": {
+            "cl": 18,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 47
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": ".TwoIntsClass*",
+        "sink_variable": "data",
+        "source_retTypeName": "void",
+        "source_typeName": ".TwoIntsClass*",
+        "source_variable": "tmpData"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 33
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 56
+        },
+        "Value": {
+            "cl": 18,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73b.cpp",
+            "ln": 33
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": ".TwoIntsClass*",
+        "sink_variable": "data",
+        "source_retTypeName": "void",
+        "source_typeName": ".TwoIntsClass*",
+        "source_variable": "tmpData"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 18,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 57
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 56
+        },
+        "Value": {
+            "cl": 9,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 57
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": ".TwoIntsClass*",
+        "sink_variable": "tmpData",
+        "source_retTypeName": "void",
+        "source_typeName": ".TwoIntsClass*",
+        "source_variable": "tmpData"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 18,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 58
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 56
+        },
+        "Value": {
+            "cl": 9,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__class_73a.cpp",
+            "ln": 58
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": ".TwoIntsClass*",
+        "sink_variable": "tmpData",
+        "source_retTypeName": "void",
+        "source_typeName": ".TwoIntsClass*",
+        "source_variable": "tmpData"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "void",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": ".TwoIntsClass*",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "MayBeDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "%\"struct.std::_List_iterator\"*",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": ".TwoIntsClass*",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": ".TwoIntsClass*",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "%\"struct.std::_List_iterator\"*",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "void",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "%\"struct.std::_List_node\"",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__p"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "%\"struct.std::_List_iterator\"*",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "void",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::_List_node\"*",
+        "source_variable": "__tmp"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "%\"struct.std::_List_iterator\"*",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "char*",
+        "sink_typeName": "%\"struct.__gnu_cxx::__aligned_membuf\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": "void",
+        "sink_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "sink_variable": "_M_node",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    },
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": null,
+        "Source": null,
+        "Value": null,
+        "sink_retFuncType": ".TwoIntsClass**",
+        "sink_typeName": "%\"struct.std::_List_node\"*",
+        "sink_variable": "this.addr",
+        "source_retTypeName": "void",
+        "source_typeName": "%\"struct.std::__detail::_List_node_base\"*",
+        "source_variable": "coerce.dive"
+    }
+]

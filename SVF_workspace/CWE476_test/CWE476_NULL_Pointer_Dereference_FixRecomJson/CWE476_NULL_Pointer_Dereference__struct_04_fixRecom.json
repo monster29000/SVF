@@ -1,0 +1,12 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_04.c",
+        "ln": 36,
+        "recom": "data = new/malloc twoIntsStruct*();\n"
+    },
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_04.c",
+        "ln": 41,
+        "recom": "if( data != NULL)\n "
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_65a.c",
+        "ln": 33,
+        "recom": "data = new/malloc twoIntsStruct*();\n"
+    },
+    {
+        "fl_b": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_65b.c",
+        "fl_e": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__struct_65b.c",
+        "ln_b": 27,
+        "ln_e": 28,
+        "recom_b": "if( data.addr != NULL){\n",
+        "recom_e": "}\n"
+    }
+]

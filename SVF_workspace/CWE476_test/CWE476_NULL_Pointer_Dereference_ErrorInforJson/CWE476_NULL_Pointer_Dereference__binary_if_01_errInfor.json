@@ -1,0 +1,26 @@
+[
+    {
+        "InforType": "AlwaysDeref",
+        "Sink": {
+            "cl": 69,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_01.c",
+            "ln": 26
+        },
+        "Source": {
+            "cl": 24,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_01.c",
+            "ln": 23
+        },
+        "Value": {
+            "cl": 47,
+            "fl": "/home/monster/tools/SVF/SVF_workspace/CWE476_test/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_01.c",
+            "ln": 26
+        },
+        "sink_retFuncType": "void",
+        "sink_typeName": "twoIntsStruct*",
+        "sink_variable": "twoIntsStructPointer",
+        "source_retTypeName": "void",
+        "source_typeName": "twoIntsStruct*",
+        "source_variable": "twoIntsStructPointer"
+    }
+]
